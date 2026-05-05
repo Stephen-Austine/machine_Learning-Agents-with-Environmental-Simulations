@@ -1,10 +1,10 @@
-# 🤖 Machine Learning Agents — Environmental Simulations
+# Machine Learning Agents — Environmental Simulations
 
 A collection of intelligent agent simulations demonstrating core AI agent architectures from foundational AI theory. Each agent operates within a two-location vacuum-cleaner environment and showcases progressively more sophisticated decision-making capabilities — from simple reflex behaviour to full utility-maximisation and adaptive performance tuning.
 
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [Overview](#overview)
 - [Project Structure](#project-structure)
@@ -264,7 +264,7 @@ Open each `.ipynb` file in Jupyter and run all cells:
 - `Goal-Oriented-Vacuum-Agent-Simulation.ipynb` — runs 24 cycles with 1-second intervals
 - `Adaptive-Performance-Learning-Agent.ipynb` — runs 24 cycles with mid-run performance evaluation
 
-> ⚠️ The notebook simulations use `time.sleep()` delays, so they run in real time. The goal-oriented simulation takes approximately 24 seconds to complete; the adaptive agent may take up to 72 seconds depending on the performance branch taken.
+> The notebook simulations use `time.sleep()` delays, so they run in real time. The goal-oriented simulation takes approximately 24 seconds to complete; the adaptive agent may take up to 72 seconds depending on the performance branch taken.
 
 ---
 
